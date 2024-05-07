@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4977&pause=500&color=F78A22&background=0B0000DF&center=true&vCenter=true&random=false&width=472&lines=hi+;i'm+mohmmad" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg" ><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=4977&pause=500&color=F78A22&background=0B0000DF&center=true&vCenter=true&random=false&width=600&lines=hi+;i'm+mohmmad" alt="Typing SVG" /></a>
 
 <h5 align="center">👋 Hi there! I'm Mohammad, a passionate front-end developer based in iran . I specialize in crafting user-friendly interfaces and delightful experiences on the web.</h5><br>
 
