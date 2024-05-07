@@ -1,6 +1,10 @@
-<h1 align="center">Hello World! 👋 I'm </h1>
+<h1 align="center">Hello World! 👋 I'm Silver shade</h1>
+
+<h5 align="center">👋 Hi there! I'm Mohammad, a passionate front-end developer based in iran . I specialize in crafting user-friendly interfaces and delightful experiences on the web.</h5><br>
 
 <h2 align="left">Some Facts About Me</h2>
+
+- 🌱 I’m currently learning **React.js**
 
 <h2 align="left">Skillset</h2>
 
