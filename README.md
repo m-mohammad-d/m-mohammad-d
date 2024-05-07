@@ -19,13 +19,28 @@
 
 - 📫 How to reach me **silvershade1000@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+<br><br>
+
+
+ <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40">&nbsp;
+Connect with me : 
+------- 
+
 <p align="left">
   <a href="https://linkedin.com/in/silver shade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silver shade" height="50" width="50" /></a>
   <a href="https://t.me/silver_shade1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="silver shade" height="50" width="50" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+
+ <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="45">&nbsp;
+my Skills :  
+------
+
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
