@@ -37,9 +37,14 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvershade1&show_icons=true&locale=en&layout=compact" alt="silvershade1" /></p>
+## github stats :
+<p ><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvershade1&show_icons=true&theme=dark&locale=en&layout=compact" alt="silvershade1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvershade1&show_icons=true&locale=en" alt="silvershade1" /></p>
+<p><img align="right" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=silvershade1&theme=dark" alt="silvershade1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvershade1&" alt="silvershade1" /></p>
+
+<p align="left"> <a  href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvershade1&theme=gruvbox" alt="silvershade1" height="300" /></a> </p>
+
+
+
 <p><img align="center" width="100%" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="gif" /></p>
