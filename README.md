@@ -58,7 +58,7 @@ my Skills :
 ## github stats :
 <p ><img align="center" width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvershade1&show_icons=true&theme=dark&locale=en&layout=compact" alt="silvershade1" /></p>
 
-<p><img align="center" width="100%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=silvershade1&theme=dark" alt="silvershade1" /></p>
+<p><img align="center" width="100%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=m-mohammad-d&theme=dark" alt="silvershade1" /></p>
 
 
 <p align="center"> <a  href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvershade1&theme=gruvbox&row=2&column=3" alt="silvershade1" height="400" /></a> </p>
