@@ -29,7 +29,7 @@ Connect with me :
 ------- 
 
 <p align="left">
-  <a href="https://linkedin.com/in/silver shade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silver shade" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/silver-shade-90b2a6302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silver shade" height="50" width="50" /></a>
   <a href="https://t.me/silver_shade1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="silver shade" height="50" width="50" /></a>
 </p>
 
