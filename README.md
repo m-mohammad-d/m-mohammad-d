@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+ <img align="center" width="100%" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 ##
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **library**
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **typeScript and react js**
 
 - 👨‍💻 All of my projects are available at [in github](in github)
 
