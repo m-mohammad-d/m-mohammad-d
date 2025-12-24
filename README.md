@@ -83,4 +83,3 @@ I love turning complex problems into simple, elegant interfaces.
 |---------|-------|-------------|
 | [**direct**](https://github.com/m-mohammad-d/direct) | Expo, React Native, TypeScript | Real-time chat app |
 | [**movieCube**](https://github.com/m-mohammad-d/movieCube) | React Native | Movie discovery and tracking app |
-| [**WordWizard**](https://github.com/m-mohammad-d/WordWizard) | Telegraf, Node.js | Interactive Telegram bot game |
