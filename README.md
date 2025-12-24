@@ -1,6 +1,4 @@
-  <img src="/banner.png" alt="Banner" />
-
-
+<img src="/banner.png" alt="Banner" />
 
 <h1 align="center">Hi there 👋 I'm Mohammad</h1>
 
@@ -51,9 +49,37 @@ I love turning complex problems into simple, elegant interfaces.
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">💻 Projects</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-mohammad-d&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mohammad-d&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 🌐 Frontend / Web
+| Project                   | Stack                              | Description                                                |
+| ------------------------- | ---------------------------------- | ---------------------------------------------------------- |
+| .course                   | React, TypeScript, Redux, Tailwind | Educational platform with dashboards and course management |
+| Awesome-CSS-Designs       | HTML, CSS                          | Collection of creative CSS designs and layouts             |
+| FitLand                   | Next.js, GraphQL, Prisma, Tailwind | Sportswear e-commerce with advanced cart and payments      |
+| LyricList-graqh           | React, GraphQL                     | Manage and view song lyrics easily                         |
+| microshop                 | JavaScript, Microfrontend          | Modular e-commerce platform                                |
+| Nexium                    | React, JS                          | Browser-based desktop environment                          |
+| NexoLive                  | React, Tailwind                    | Live streaming platform for creators                       |
+| Notion                    | Next.js, Tailwind, Clerk           | Notion-like productivity app                               |
+| pizza-react-app           | React                              | Simple pizza ordering app                                  |
+| portfolio                 | React, Tailwind                    | Personal portfolio website                                 |
+| Space-Invaders            | HTML, CSS, JS                      | Classic space shooter game                                 |
+| StreamVibe                | React, Tailwind                    | Movie/TV streaming web app                                 |
+| tic-toc-toe               | React                              | Classic Tic-Tac-Toe game                                   |
+| usePopcorn-react          | React                              | Movie search and review app                                |
+| text-to-voice             | HTML, CSS, JS                      | Text-to-speech web app                                     |
+| login-form-glass-morphism | HTML, CSS                          | Glassmorphism login form                                   |
+| json-view                 | React                              | Minimal JSON viewer                                        |
+| **Azogeh**                | MERN (Mongo, Express, React, Node)| Food e-commerce platform                                   |
+
+### ⚙ Backend
+| Project | Stack | Description |
+|---------|-------|-------------|
+| direct-backend | Express, TypeScript, Prisma, Socket.IO | Backend API for real-time chat app |
+
+### 📱 Mobile / React Native
+| Project | Stack | Description |
+|---------|-------|-------------|
+| direct | Expo, React Native, TypeScript | Real-time chat app |
+| movieCube | React Native | Movie discovery and tracking app |
