@@ -54,32 +54,33 @@ I love turning complex problems into simple, elegant interfaces.
 ### 🌐 Frontend / Web
 | Project                   | Stack                              | Description                                                |
 | ------------------------- | ---------------------------------- | ---------------------------------------------------------- |
-| .course                   | React, TypeScript, Redux, Tailwind | Educational platform with dashboards and course management |
-| Awesome-CSS-Designs       | HTML, CSS                          | Collection of creative CSS designs and layouts             |
-| FitLand                   | Next.js, GraphQL, Prisma, Tailwind | Sportswear e-commerce with advanced cart and payments      |
-| LyricList-graqh           | React, GraphQL                     | Manage and view song lyrics easily                         |
-| microshop                 | JavaScript, Microfrontend          | Modular e-commerce platform                                |
-| Nexium                    | React, JS                          | Browser-based desktop environment                          |
-| NexoLive                  | React, Tailwind                    | Live streaming platform for creators                       |
-| Notion                    | Next.js, Tailwind, Clerk           | Notion-like productivity app                               |
-| pizza-react-app           | React                              | Simple pizza ordering app                                  |
-| portfolio                 | React, Tailwind                    | Personal portfolio website                                 |
-| Space-Invaders            | HTML, CSS, JS                      | Classic space shooter game                                 |
-| StreamVibe                | React, Tailwind                    | Movie/TV streaming web app                                 |
-| tic-toc-toe               | React                              | Classic Tic-Tac-Toe game                                   |
-| usePopcorn-react          | React                              | Movie search and review app                                |
-| text-to-voice             | HTML, CSS, JS                      | Text-to-speech web app                                     |
-| login-form-glass-morphism | HTML, CSS                          | Glassmorphism login form                                   |
-| json-view                 | React                              | Minimal JSON viewer                                        |
-| **Azogeh**                | MERN (Mongo, Express, React, Node)| Food e-commerce platform                                   |
+| [**.course**](https://github.com/m-mohammad-d/.course)                   | React, TypeScript, Redux, Tailwind | Educational platform with dashboards and course management |
+| [**Awesome-CSS-Designs**](https://github.com/m-mohammad-d/Awesome-CSS-Designs)       | HTML, CSS                          | Collection of creative CSS designs and layouts             |
+| [**FitLand**](https://github.com/m-mohammad-d/FitLand)                   | Next.js, GraphQL, Prisma, Tailwind | Sportswear e-commerce with advanced cart and payments      |
+| [**LyricList-graqh**](https://github.com/m-mohammad-d/LyricList-graqh)           | React, GraphQL                     | Manage and view song lyrics easily                         |
+| [**microshop**](https://github.com/m-mohammad-d/microshop)                 | JavaScript, Microfrontend          | Modular e-commerce platform                                |
+| [**Nexium**](https://github.com/m-mohammad-d/Nexium)                    | React, JS                          | Browser-based desktop environment                          |
+| [**NexoLive**](https://github.com/m-mohammad-d/NexoLive)                  | React, Tailwind                    | Live streaming platform for creators                       |
+| [**Notion**](https://github.com/m-mohammad-d/Notion)                    | Next.js, Tailwind, Clerk           | Notion-like productivity app                               |
+| [**pizza-react-app**](https://github.com/m-mohammad-d/pizza-react-app)           | React                              | Simple pizza ordering app                                  |
+| [**portfolio**](https://github.com/m-mohammad-d/portfolio)                 | React, Tailwind                    | Personal portfolio website                                 |
+| [**Space-Invaders**](https://github.com/m-mohammad-d/Space-Invaders)            | HTML, CSS, JS                      | Classic space shooter game                                 |
+| [**StreamVibe**](https://github.com/m-mohammad-d/StreamVibe)                | React, Tailwind                    | Movie/TV streaming web app                                 |
+| [**tic-toc-toe**](https://github.com/m-mohammad-d/tic-toc-toe)               | React                              | Classic Tic-Tac-Toe game                                   |
+| [**usePopcorn-react**](https://github.com/m-mohammad-d/usePopcorn-react)          | React                              | Movie search and review app                                |
+| [**text-to-voice**](https://github.com/m-mohammad-d/text-to-voice)             | HTML, CSS, JS                      | Text-to-speech web app                                     |
+| [**login-form-glass-morphism**](https://github.com/m-mohammad-d/login-form-glass-morphism) | HTML, CSS                          | Glassmorphism login form                                   |
+| [**json-view**](https://github.com/m-mohammad-d/json-view)                 | React                              | Minimal JSON viewer                                        |
+| [**Azogeh**](https://github.com/m-mohammad-d/Azogeh)                | MERN (Mongo, Express, React, Node)| Food e-commerce platform                                   |
 
 ### ⚙ Backend
 | Project | Stack | Description |
 |---------|-------|-------------|
-| direct-backend | Express, TypeScript, Prisma, Socket.IO | Backend API for real-time chat app |
+| [**direct-backend**](https://github.com/m-mohammad-d/direct-backend) | Express, TypeScript, Prisma, Socket.IO | Backend API for real-time chat app |
 
 ### 📱 Mobile / React Native
 | Project | Stack | Description |
 |---------|-------|-------------|
-| direct | Expo, React Native, TypeScript | Real-time chat app |
-| movieCube | React Native | Movie discovery and tracking app |
+| [**direct**](https://github.com/m-mohammad-d/direct) | Expo, React Native, TypeScript | Real-time chat app |
+| [**movieCube**](https://github.com/m-mohammad-d/movieCube) | React Native | Movie discovery and tracking app |
+| [**WordWizard**](https://github.com/m-mohammad-d/WordWizard) | Telegraf, Node.js | Interactive Telegram bot game |
