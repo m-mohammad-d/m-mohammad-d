@@ -64,7 +64,6 @@ I love turning complex problems into simple, elegant interfaces.
 | [**Nexium**](https://github.com/m-mohammad-d/Nexium)                    | React, JS                          | Browser-based desktop environment                          |
 | [**pizza-react-app**](https://github.com/m-mohammad-d/pizza-react-app)           | React                              | Simple pizza ordering app                                  |
 | [**portfolio**](https://github.com/m-mohammad-d/portfolio)                 | React, Tailwind                    | Personal portfolio website                                 |
-| [**Awesome-CSS-Designs**](https://github.com/m-mohammad-d/Awesome-CSS-Designs)       | HTML, CSS                          | Collection of creative CSS designs and layouts             |
 | [**Space-Invaders**](https://github.com/m-mohammad-d/Space-Invaders)            | HTML, CSS, JS                      | Classic space shooter game                                 |
 | [**StreamVibe**](https://github.com/m-mohammad-d/StreamVibe)                | React, Tailwind                    | Movie/TV streaming web app                                 |
 | [**tic-toc-toe**](https://github.com/m-mohammad-d/tic-toc-toe)               | React                              | Classic Tic-Tac-Toe game                                   |
